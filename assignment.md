@@ -1,4 +1,4 @@
-# Instructions for submitting assignments via GitHub classroom
+# Instructions for submitting assignments via GitHub classroom :goat:
 
 1. Open a terminal on your computer so that you can push to GitHub via the command line.
 
@@ -24,3 +24,5 @@
 7. You are now ready to start adding files to your assignment folder! You can add these files as you normally would (create a .Rmd file in RStudio and work on it there), but you will need to remember to commit and push any changes to your assignment repo. Here is a simple guide to git: http://rogerdudler.github.io/git-guide/
 
 8. There is no official "Submit" button when you have completed your assignment. Instead, the last commit you have made before the deadline will be counted as the last change to your submission. 
+
+9. Have fun and feel free to ask any questions you may have! :fireworks:
