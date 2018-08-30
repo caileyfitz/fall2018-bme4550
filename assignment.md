@@ -1,4 +1,4 @@
-# Instructions for submitting assignments via GitHub classroom :goat:
+# Instructions for submitting assignments via GitHub classroom :goat: 
 
 1. Open a terminal on your computer so that you can push to GitHub via the command line.
 
