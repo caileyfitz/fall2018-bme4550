@@ -10,10 +10,10 @@
   cd Assignment1
 ```
 
- 3. Visit the assignment link provided:
+ 3. Visit the assignment link provided for a particular assignment and click to accept the assignment:
 ![](https://image.ibb.co/cQHqoU/accept.png "Logo Title Text 1")
 
-4. Click the link to go to your created assignment repo:
+4. After accepting, click the link to go to your created assignment repo:
 ![](https://image.ibb.co/jj8Khp/accepted.png)
 
 5. You can now setup your repo to add your assignment files:
