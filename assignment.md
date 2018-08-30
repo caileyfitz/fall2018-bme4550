@@ -23,6 +23,14 @@
 
 7. You are now ready to start adding files to your assignment folder! You can add these files as you normally would (create a .Rmd file in RStudio and work on it there), but you will need to remember to commit and push any changes to your assignment repo. Here is a simple guide to git: http://rogerdudler.github.io/git-guide/
 
+`git status` Tells you which files have changed since last commit 
+
+`git add <filename>` Adds file to local tree; alternatively, `git add .` will add all changed files
+
+`git commit -m "message"` Add a message to indicate what has changed; this commits files to your local repo 
+
+`git push` Pushes your changes to your Assignment GitHub repo 
+
 8. There is no official "Submit" button when you have completed your assignment. Instead, the last commit you have made before the deadline will be counted as the last change to your submission. 
 
 9. Have fun and feel free to ask any questions you may have! :fireworks:
