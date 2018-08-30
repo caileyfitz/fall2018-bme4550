@@ -1,5 +1,5 @@
 # fall2018-bme4550
-Repo for UVA's Fall 2018 BME 4550: Data Science class 
+:zap: Repo for UVA's Fall 2018 BME 4550: Data Science class :zap:
 
 Link to R for Data Science book: http://r4ds.had.co.nz/data-visualisation.html
 
